@@ -50,6 +50,6 @@ sole discretion of the maintainers or their authorized delegates.
 
 ## Contributions Governed by Other Agreements
 
-This agreement does not apply to contributions made by individuals who are subject to separate agreements
-with PrairieLearn, Inc., including but not limited to employees and contractors. Such contributions will
-be governed by the terms of those agreements, rather than the terms of this CLA.
+This agreement does not apply to contributions made by individuals who are subject to separate contributor
+agreements with PrairieLearn, Inc., including but not limited to employees and contractors. Such contributions
+will be governed by the terms of those agreements, rather than the terms of this CLA.
