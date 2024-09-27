@@ -47,3 +47,9 @@ required to provide support for your contributions, except to the extent you des
 You acknowledge that the maintainers of this project are under no obligation to use or incorporate your contributions
 into the project. The decision to use or incorporate your contributions into the project will be made at the
 sole discretion of the maintainers or their authorized delegates.
+
+## Contributions Governed by Other Agreements
+
+This agreement does not apply to contributions made by individuals who are subject to separate contributor
+agreements with PrairieLearn, Inc., including but not limited to employees and contractors. Such contributions
+will be governed by the terms of those agreements, rather than the terms of this CLA.
